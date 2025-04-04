@@ -14,5 +14,5 @@ I'm **Joy Prokash**, a **Biochemistry & Molecular Biology** student at **SUST, S
 
 ---
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prokash21&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prokash21&theme=dark)](https://git.io/streak-stats)
 
