@@ -1,27 +1,17 @@
 # Hi there 👋  
 
-I'm **Joy Prokash**, currently studying **Biochemistry and Molecular Biology** at **SUST, Sylhet, Bangladesh**.  
-My research focuses on **computational biology, molecular biology, and neuroscience**!  
+I'm **Joy Prokash**, a **Biochemistry & Molecular Biology** student at **SUST, Sylhet, BD**, focusing on **computational biology, molecular biology, and neuroscience**.  
 
-## 🔭 Current Projects  
-- 🖥️ Building a **GUI for Biomarker Identification**  
-- 🧬 **Single-cell RNA sequencing** analysis  
-- 🎗️ Identifying **cancer-specific biomarkers**  
-- 🌱 Studying **salt stress on *Solanum lycopersicum***  
+🔬 **Research Projects on:**  
+🖥️ GUI for **Biomarker Identification** | 🧬 **Single-cell RNA-seq** | 🎗️ **Cancer Biomarkers** | 🌱 **Salt Stress in *S. lycopersicum***
+    
+🚀 **Learning:** AI & Deep Learning in Molecular Biology  
 
-## 🌱 Learning  
-- 🧠 **Deep learning & AI in molecular biology**
-  
-## 📄 Publications  
-- **Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach**  
-  _Scientific Reports (2025)_ – [DOI: 10.1038/s41598-024-80519-7](https://doi.org/10.1038/s41598-024-80519-7)    
+📚 **Publication:**  
+**2022 Mpox Virus Biomarkers (Sci Rep, 2025)** – [DOI: 10.1038/s41598-024-80519-7](https://doi.org/10.1038/s41598-024-80519-7)
 
-## 👯 Collaboration  
-- Always open to **neuroscience** collaborations!  
+📩 **Email:** joy21.dev.pd@gmail.com  
 
-📫 **Contact:** joy21.dev.pd@gmail.com  
-
-🚀 Check out my work and feel free to connect!  
 
 <!--
 **Prokash21/prokash21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
