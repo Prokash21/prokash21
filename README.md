@@ -10,7 +10,11 @@ My research focuses on **computational biology, molecular biology, and neuroscie
 - 🌱 Studying **salt stress on *Solanum lycopersicum***  
 
 ## 🌱 Learning  
-- 🧠 **Deep learning & AI in molecular biology**  
+- 🧠 **Deep learning & AI in molecular biology**
+  
+## 📄 Publications  
+- **Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach**  
+  _Scientific Reports (2025)_ – [DOI: 10.1038/s41598-024-80519-7](https://doi.org/10.1038/s41598-024-80519-7)    
 
 ## 👯 Collaboration  
 - Always open to **neuroscience** collaborations!  
